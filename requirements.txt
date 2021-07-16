@@ -1,4 +1,6 @@
-SQLAlchemy==*
-python-dotenv==*
-PySimpleGUI==*
+SQLAlchemy
+python-dotenv
+PySimpleGUI
+psycopg2-binary
+pandas
 
